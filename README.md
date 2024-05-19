@@ -1,12 +1,12 @@
 # Online-Shopping-Platform-finalproject_TAP
 Aceasta este o aplicație de comerț electronic dezvoltată folosind .NET pentru backend și Blazor pentru frontend.
 
-Features
+-Features
 Afișare Produse: Produsele sunt afișate cu imagini, descrieri și prețuri.
 Coș de Cumpărături: Utilizatorii pot adăuga și elimina articole din coșul de cumpărături.
 Plasare Comenzi și Plăți: Utilizatorii pot plasa comenzi și efectua plăți securizate.
 
-Getting started
+-Getting started
 
 *Clonarea repository-ului
 *Configurarea Bazei de Date:
