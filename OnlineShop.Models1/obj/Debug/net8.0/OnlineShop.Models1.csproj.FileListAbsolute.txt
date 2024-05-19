@@ -1,0 +1,11 @@
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\bin\Debug\net8.0\OnlineShop.Models1.deps.json
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\bin\Debug\net8.0\OnlineShop.Models1.dll
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\bin\Debug\net8.0\OnlineShop.Models1.pdb
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\OnlineShop.Models1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\OnlineShop.Models1.AssemblyInfoInputs.cache
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\OnlineShop.Models1.AssemblyInfo.cs
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\OnlineShop.Models1.csproj.CoreCompileInputs.cache
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\OnlineShop.Models1.dll
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\refint\OnlineShop.Models1.dll
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\OnlineShop.Models1.pdb
+C:\Users\ilinc\OneDrive\Desktop\TAP\OnlineShopSolution1\OnlineShop.Models1\obj\Debug\net8.0\ref\OnlineShop.Models1.dll
